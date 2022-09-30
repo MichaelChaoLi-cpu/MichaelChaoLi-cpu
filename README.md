@@ -11,9 +11,9 @@
 ******************************
 Com-left:    
 Task-1:     
-- name:     
-- core:     
-- memory:      
+- name: American Monthly NDVI 1km downloading for DP18     
+- core: 1    
+- memory: tiny      
      
 Task-2:     
 - name:
@@ -21,10 +21,11 @@ Task-2:
 - memory:       
        
 Summary:
-- cores in use:
-- memory in use:    
-- idle cores:
-- idle in use:    
+- cores in use: 1
+- memory in use: tiny  
+    
+- idle cores: 15
+- idle in use: 128GB    
 ******************************
 Com-right:    
 Task-1:     
@@ -38,10 +39,11 @@ Task-2:
 - memory:       
        
 Summary:
-- cores in use:
-- memory in use:    
-- idle cores:
-- idle in use:    
+- cores in use: 0
+- memory in use: 0    
+   
+- idle cores: 12 
+- idle in use: 64GB    
 ******************************
 Super:    
 Task-1:     
@@ -53,8 +55,9 @@ Task-2:
 - nodes  
        
 Summary:
-- nodes in use:
-- idle cores:    
+- nodes in use: 0    
+   
+- idle cores: 16 + 1    
 *******************************
 
 **For Me:**     
