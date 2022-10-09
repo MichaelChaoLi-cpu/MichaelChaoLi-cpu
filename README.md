@@ -16,16 +16,16 @@ Task-1:
 - memory: tiny      
      
 Task-2:     
-- name:
-- core:
-- memory:       
+- name: Random forest 27 variable for PP01
+- core: 10
+- memory: 36GB      
        
 Summary:
-- cores in use: 1
-- memory in use: tiny  
+- cores in use: 11 (100%)
+- memory in use: 36GB  
     
-- idle cores: 15
-- idle in use: 128GB    
+- idle cores: 0 (16)
+- idle in use: 92GB (128GB)    
 ******************************
 Com-right:    
 Task-1:     
@@ -47,17 +47,17 @@ Summary:
 ******************************
 Super:    
 Task-1:     
-- name:     
-- nodes     
+- name: Random forest 27 variable for PP01      
+- nodes: 1     
      
 Task-2:     
 - name:
 - nodes  
        
 Summary:
-- nodes in use: 0    
+- nodes in use: 1    
    
-- idle cores: 16 + 1    
+- idle cores: 15 + 1 (16 + 1)    
 *******************************
 
 **For Me:**     
