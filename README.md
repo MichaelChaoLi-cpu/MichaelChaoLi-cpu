@@ -77,7 +77,6 @@ More details are available on my [personal website](https://michaelchaoli-cpu.gi
 | Pronouns | He / him |
 | Academic role | Visiting Assistant Professor, Kyushu University |
 | Industry role | Chief Data Scientist & Head of AI Research, aiESG Inc. |
-| Company website | [Plum Data](https://plum-data.com/) |
 | Collaboration interests | Global CO2 concentration, AI for sustainability, ESG analytics, geospatial modeling |
 | Learning | Machine learning, causal inference, sklearn, Keras, PyTorch |
 
