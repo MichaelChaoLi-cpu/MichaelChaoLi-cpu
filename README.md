@@ -45,17 +45,17 @@ I build large-scale research data systems and AI models that connect global news
 | AI Agent Workflows | Literature screening, variable alignment, robustness checking, and research automation |
 | Compute | PostgreSQL data server, Google Cloud Platform, and shared GPU resources for large-model experiments |
 
-## Open Software
+## Open Source Software
 
-### GWPR.light
-
-The first R package for geographically weighted panel regression, published on CRAN and used across environmental and well-being studies.
+| Project | Focus | Links |
+| --- | --- | --- |
+| GWPR.light | The first R package for geographically weighted panel regression, published on CRAN and used across environmental and well-being studies. | [CRAN](https://cran.r-project.org/package=GWPR.light) |
+| Zhixiang | A JavaScript time-management tool for organizing schedules, tasks, and work plans. | [GitHub](https://github.com/MichaelChaoLi-cpu/Zhixiang) |
+| HappyToGo | A Python template toolkit for generating the necessary documents for manuscript submission workflows. | [GitHub](https://github.com/MichaelChaoLi-cpu/HappyToGo) |
 
 ```r
 install.packages("GWPR.light")
 ```
-
-[CRAN](https://cran.r-project.org/package=GWPR.light) | [GitHub Profile](https://github.com/MichaelChaoLi-cpu)
 
 ## Selected Publications
 
